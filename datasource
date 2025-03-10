@@ -1,1 +1,2 @@
-URL: https://pan.baidu.com/s/1wSxwtkxftvTvjhCprPvPgA code: t4h8
+RESIDE is a widely recognized benchmark dataset. Among its five subsets, we select ITS and OTS as the training datasets and use SOTS-indoor and SOTS-outdoor as the testing datasets for synthetic image dehazing.
+Dense-Haze is a real-world scene dataset that primarily contains dense and uniform haze scenes. It includes 55 pairs of real hazy images and their corresponding clear images from various outdoor settings. 
