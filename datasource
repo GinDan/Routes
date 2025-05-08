@@ -1,2 +1,7 @@
-RESIDE is a widely recognized benchmark dataset. Among its five subsets, we select ITS and OTS as the training datasets and use SOTS-indoor and SOTS-outdoor as the testing datasets for synthetic image dehazing.
-Dense-Haze is a real-world scene dataset that primarily contains dense and uniform haze scenes. It includes 55 pairs of real hazy images and their corresponding clear images from various outdoor settings. 
+Data Availability
+The following information was supplied regarding data availability: 
+The sources and access methods for the datasets used in this study are provided within the main text for readers’ reference and access.
+The website for obtaining third-party datasets:
+reside dataset:https://sites.google.com/view/reside-dehaze-datasets/reside-standard
+Dense-Haze dataset:https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/
+NH-Haze dataset:https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/
